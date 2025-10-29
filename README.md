@@ -83,7 +83,7 @@ Non-Functional Requirements describe **how the system performs** its functions, 
 
 Below is a use case diagram for a simple booking management system:  
 
-![Booking Management Use Case Diagram](https://drive.google.com/uc?export=view&id=1ctzxqJDQVwbD8LbJLO-qwBhBCfdrq3Qo)
+![Booking Management Use Case Diagram](https://drive.google.com/file/d/1ctzxqJDQVwbD8LbJLO-qwBhBCfdrq3Qo/view)
 
 **Actors:**  
 - **Customer:** Searches, books, and pays for rooms.  
